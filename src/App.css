@@ -1,0 +1,33 @@
+.borderr
+{
+    border: 2px solid rgb(151, 29, 167);
+    /* background-color:rgb(223, 176, 232) */
+
+}
+.out
+{
+    margin-top: 200px;
+}
+body{
+    
+    /* background: radial-gradient(rgb(175, 175, 232),rgb(219, 161, 219)); */
+}
+.btn
+{
+    background-color: plum;
+    border: 2px solid rgb(203, 87, 203) ;
+    align-self: center;
+    
+}
+.btn:hover
+{
+    background-color: plum;
+    border: 2px solid rgb(203, 87, 203) ;  
+}
+.button
+{padding-left: 200px;
+}
+.error
+{
+    color:plum;
+}
